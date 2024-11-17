@@ -1,0 +1,3 @@
+window.top.postMessage('{"msg_type":"resize-me","key_value":[{"key":"r_nh","value":"0"},{"key":"r_ifr","value":"true"},{"key":"qid","value":"CL6kge-KjIMDFdaK6QUdq5AHYA"}],"googMsgType":"sth"}', '*');;
+
+window.top.postMessage('{"msg_type":"adsense-labs","key_value":[{"key":"settings","value":"[\\\"ca-pub-6020664305604651\\\",null,null,[[\\\"ID=619c49f646c8cb73:T=1702459233:RT=1702459233:S=ALNI_MYAZHYyENTUwvtMUDTq29LcUSrveA\\\",1736155233,\\\"/\\\",\\\"emicalculator.net\\\",1],[\\\"UID=00000cabbb001d19:T=1702459233:RT=1702459233:S=ALNI_MY8vocBNwHx-k-70CNBrrVs-GS45g\\\",1736155233,\\\"/\\\",\\\"emicalculator.net\\\",2]]]"}],"googMsgType":"sth"}', '*');

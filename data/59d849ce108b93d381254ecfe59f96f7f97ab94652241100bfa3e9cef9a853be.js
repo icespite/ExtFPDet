@@ -1,0 +1,2 @@
+function sync(){window.location.replace('https://ssp.api.tappx.com/cs/usync?idmn=1111&type=iframe&id=A1685198941438380529&auxuid=');}
+if(window.addEventListener){window.addEventListener('load',sync);} else if(window.attachEvent){window.attachEvent('onload',sync);} else {window.onload=sync;}

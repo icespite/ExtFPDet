@@ -1,0 +1,1 @@
+document.addEventListener("lazybeforeunveil",function(e){var t=e.target.getAttribute("data-bg");t&&(e.target.style.backgroundImage="url('"+t+"')")})

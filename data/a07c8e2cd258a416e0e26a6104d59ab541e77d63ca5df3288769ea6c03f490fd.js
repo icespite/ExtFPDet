@@ -1,0 +1,1 @@
+window.dpmPixels[0].updateUserVariable({"country_code":"392","city":"tokyo","latitude":"35.68","ipAddress":"50.7.159.142","appnexusId":"6390457732147078595","dma":"392001","uuid":"7e82d92fb5c5a8ee5fa2d1164a7f681047ec742c","longitude":"139.75"});

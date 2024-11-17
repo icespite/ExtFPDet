@@ -1,0 +1,3 @@
+
+            var saveToCookie=function(e, n){document.cookie=e + "=" + n + ";max-age=157680000;SameSite=None;Secure;path=/"}, guid=function(){function e(){return Math.floor(65536 * (1 + Math.random())).toString(16).substring(1)}return e() + e() + "-" + e() + "-" + e() + "-" + e() + "-" + e() + e() + e()}, loadUserId=function(){var e=/db_ui=([^;]+)/.exec(document.cookie); return e ? e[1] : (e=this.guid(), this.saveToCookie("db_ui", e), e)}, send=function(e){parent.window.postMessage(loadUserId(), e.data)}; window.addEventListener("message", send, !1);
+        

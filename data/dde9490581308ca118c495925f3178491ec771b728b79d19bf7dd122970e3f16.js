@@ -1,0 +1,1 @@
+importScripts('https://cdn.pn.vg/push/pushnews-sw.js');

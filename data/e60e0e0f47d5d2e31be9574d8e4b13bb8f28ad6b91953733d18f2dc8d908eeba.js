@@ -1,0 +1,1 @@
+apstag.punt({"cfg":{"CONFIG_CALL_ENABLED":true,"v":3},"cmp":"https://s.amazon-adsystem.com/iu3?cm3ppd=1&d=dtb-pub&csif=t&dl=n-index_n-sharethrough_pm-db5_ym_rbd_n-vmg_n-MediaNet_ox-db5_an-db5_3lift","cb":"0"})

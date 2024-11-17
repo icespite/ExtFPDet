@@ -1,0 +1,1 @@
+import{V as e}from"./Variant-dd9d1aea.js";import t from"./UserReflectorLoader-4e7fe8cb.js";import{p as a}from"./LoginWidget-34fb458a.js";class m extends e{async _init(){a("lg")&&t.addElement(this.parent.element)}}export{m as V};

@@ -1,0 +1,1 @@
+jQuery56706162medius__asap({"jsonrpc":"2.0","id":5670616,"result":{"asap_date":"53 years ago","status":"OK","asap_title":"","asap_area":null}})

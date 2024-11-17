@@ -1,0 +1,1 @@
+yadsRenderAd_v2([],{"output_type":"js_frame","callback":"","js_file_name":"","noad_callback":"","adprodset_code":"68318_575476-610400-645622"});

@@ -1,0 +1,7 @@
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;ga("create","UA-43921502-1","auto");ga("set",{anonymize_ip:!0,cookie_domain:"emisora.cl"});ga("send","pageview");setTimeout(function(){ga("send","event","Read","60 seconds")},6E4);                    window.dataLayer=window.dataLayer||[];                    function gtag(){dataLayer.push(arguments)}                    gtag("js",new Date);                    gtag("config","G-0M8S7FSMVJ",{"cookie_domain":"emisora.cl"});window.SM2_DEFER=!0;var webradioConfig={countryCode:"CL",debugMode:0,domainID:1,languageCode:"es",slugDomain:"emisora-cl",slugFavorites:"favoritos",urlApi:"https://api.webrad.io/",urlStatic:"https://cdn.webrad.io/",algolia:[{"applicationId":"3ZTZWUB3YF","apiKey":"69c38d1d7696f10303d883840d265170"}],dashJs:{version:"4.7.2"},hlsJs:{version:"1.4.12"},txt:{error:"Error",live:"En vivo",loading:"Cargando",mute:"Desactivar o reactivar audio",no_audio:"Sin audio durante más de un mes, lo comprobamos semanalmente",play:"Sonar",popup:"Escuchar aqui",search_for:"Resultados de la búsqueda de %s",search_none:"No hay resultados para %s",start:"Inicio",stop:"Parar",volume:"Control de volumen"}};;
+
+(adsbygoogle=window.adsbygoogle||[]).push({});;
+
+(adsbygoogle=window.adsbygoogle||[]).push({});;
+
+(adsbygoogle=window.adsbygoogle||[]).push({});

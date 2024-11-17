@@ -1,0 +1,3 @@
+window.top.postMessage('{"msg_type":"resize-me","key_value":[{"key":"r_nh","value":"0"},{"key":"r_ifr","value":"true"},{"key":"qid","value":"CJHqveSKjIMDFeRNDwIdL0IPBw"}],"googMsgType":"sth"}', '*');;
+
+window.top.postMessage('{"msg_type":"adsense-labs","key_value":[{"key":"settings","value":"[\\\"ca-pub-6771940464972938\\\",[[1]],null,[[\\\"ID=3d0390b9496bd549:T=1702459211:RT=1702459211:S=ALNI_MaVsUw1YvMZ9BQ1orYmiHRAa5W-4w\\\",1736155211,\\\"/\\\",\\\"emisora.cl\\\",1],[\\\"UID=00000cabbab8274b:T=1702459211:RT=1702459211:S=ALNI_MbpF0wC7EC8X7CoM85b2ALg6q_iIA\\\",1736155211,\\\"/\\\",\\\"emisora.cl\\\",2]]]"}],"googMsgType":"sth"}', '*');

@@ -1,0 +1,1 @@
+"use strict";var pvCount=function(){$.when(function(e,r){var t=$.Deferred();return $.ajax({url:"/api/increment-pv",type:"post",data:{url:url},dataType:"jsonp",timeout:5e3,success:t.resolve,error:t.reject}),t.promise()}()).always(function(e){})};$(window).bind("refresh",pvCount),pvCount();
